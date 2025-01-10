@@ -13,7 +13,7 @@ Instructions on how to install your Node.js project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/ssswhite007/project-for-Dishant
    ```
 2. Navigate into the project directory:
    ```bash
@@ -25,7 +25,7 @@ Instructions on how to run your Node.js project:
 1. Ensure MongoDB is running locally or accessible remotely.
 2. Start the application:
    ```bash
-   npm start
+   node index.js
    ```
 3. Access the application at `http://localhost:5000`.
 
